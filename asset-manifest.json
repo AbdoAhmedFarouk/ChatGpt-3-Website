@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ChatGpt-3-Website/static/css/main.14992aa8.css",
+    "main.css": "/ChatGpt-3-Website/static/css/main.9cb8bb1f.css",
     "main.js": "/ChatGpt-3-Website/static/js/main.9ce4f67b.js",
     "static/media/ai.png": "/ChatGpt-3-Website/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility (1).png": "/ChatGpt-3-Website/static/media/possibility (1).525f13b61a2157d44de0.png",
@@ -12,11 +12,11 @@
     "static/media/people.png": "/ChatGpt-3-Website/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/ChatGpt-3-Website/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/ChatGpt-3-Website/index.html",
-    "main.14992aa8.css.map": "/ChatGpt-3-Website/static/css/main.14992aa8.css.map",
+    "main.9cb8bb1f.css.map": "/ChatGpt-3-Website/static/css/main.9cb8bb1f.css.map",
     "main.9ce4f67b.js.map": "/ChatGpt-3-Website/static/js/main.9ce4f67b.js.map"
   },
   "entrypoints": [
-    "static/css/main.14992aa8.css",
+    "static/css/main.9cb8bb1f.css",
     "static/js/main.9ce4f67b.js"
   ]
 }
